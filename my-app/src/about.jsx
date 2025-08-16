@@ -39,7 +39,7 @@ function About(){
                       <h2>Reliable <br/> service</h2>
                     </div>
                   </div>
-                  <h2 className="since">Nice Telecom — trusted since 2014 for best prices and reliable service. Visit us for quality you can trust.</h2>
+                  <h2 className="since">Nice Telecom — trusted since 2016 for best prices and reliable service. Visit us for quality you can trust.</h2>
                   <p className="stay pt-2">Stay Connected, Stay Upgraded!</p>
                   <button className="visit mt-3">Visit Now</button>
                 </div>

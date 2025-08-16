@@ -800,11 +800,6 @@ section.backto {
     padding: 0 30px;
 }
 
-h1.subtext {
-    font-size: 55px;
-    line-height: 47px;
-}
-
 .tagline {
     font-size: 18px;
 }
@@ -868,7 +863,7 @@ h2.since {
 }
 
 .row.change {
-    padding: 20px 0 72px;
+    padding: 20px 0 19px;
 }
 
 .ice {
@@ -877,11 +872,6 @@ h2.since {
 
 h2.connect.text-center {
     font-size: 35px;
-}
-
-.late {
-    margin-top: 17px;
-    font-size: 14px;
 }
 
 .user.p-5.h-100 {
