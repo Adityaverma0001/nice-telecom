@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.7",
+    "bootstrap": "^5.3.7",
+    "framer-motion": "^12.23.12",
+    "popper.js": "^1.16.1",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "react-router-dom": "^7.7.0"
+  }
+}
