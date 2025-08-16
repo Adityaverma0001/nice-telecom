@@ -6,7 +6,7 @@ function About(){
     return(
         <>
         <Navbar/>
-         <section>
+         <section className="overflow-hidden">
           <div className="container-fluid mt-5 ps-2 pe-2 mt-4 mb-5">
              <motion.h1
         initial={{ opacity: 0, y: 50 }}       

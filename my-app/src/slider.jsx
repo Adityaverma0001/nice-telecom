@@ -52,10 +52,10 @@ export default function Slider() {
   slidesPerView={2}
   slidesPerGroup={2}
   pagination={{ clickable: true }}
-    // autoplay={{
-    //   delay: 3000, // Slide change hone ka wait time
-    //   disableOnInteraction: false
-    // }}
+    autoplay={{
+      delay: 3000, // Slide change hone ka wait time
+      disableOnInteraction: false
+    }}
   speed={1500} // Slide ka transition time (ms) — jitna zyada, utna smooth
   loop={true}
   breakpoints={{

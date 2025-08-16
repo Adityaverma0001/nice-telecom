@@ -278,6 +278,9 @@ a.nav-link:hover{
 .collapse.navbar-collapse.show {
     padding: 23px 4px;
 }
+.mgn {
+    margin: 40px 0;
+}
 button.btn.ms-lg-3 {
     display: none;
 }
